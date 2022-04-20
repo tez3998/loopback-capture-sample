@@ -1,5 +1,5 @@
 # loopback_capture_sample
-Sample code which records system sound (what you hear) with Python.
+Sample code which records system sound (what you hear) in Python.
 
 # Installation
 ## SoundCard
