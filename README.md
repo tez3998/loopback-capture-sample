@@ -1,6 +1,10 @@
 # loopback_capture_sample
 Sample code which records system sounds (what you hear) in Python.
 
+# Environment
+This worked on Windows 10 and Ubuntu 18.04.
+I think this will work on MacOS.
+
 # Installation
 ## SoundCard
 ```bash
