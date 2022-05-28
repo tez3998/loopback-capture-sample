@@ -1,4 +1,4 @@
-# loopback_capture_sample
+# loopback-capture-sample
 Sample code which records system sounds (what you hear) in Python.
 
 # Demo
