@@ -22,4 +22,4 @@ python capture.py
 ```
 
 3. After seconds, the program produces an audio file named out.wav.
-4. check if the program could record system sounds by playing out.wav.
+4. Check if the program could record system sounds by playing out.wav.
