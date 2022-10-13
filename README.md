@@ -9,7 +9,10 @@ This worked on Windows 10/11 and Ubuntu 18.04.
 I think this will work on macOS.
 
 # Installation
-On Linux, you need to install libsndfile using your distribution’s package manager like apt in order to use SoundFile library.
+1. Clone this repository
+2. Go to the the directory you have just cloned
+3. On Linux, you need to install libsndfile using your distribution’s package manager like apt in order to use SoundFile library
+4. Run the following command
 ```bash
 pip install -r requirements.txt
 ```
