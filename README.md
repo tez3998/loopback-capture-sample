@@ -12,7 +12,7 @@ I think this will work on macOS.
 1. Clone this repository
 2. Go to the the directory you have just cloned
 3. On Linux, you need to install libsndfile using your distribution’s package manager like apt in order to use SoundFile library
-4. Run the following command
+4. Run the following command (On Windows, I recommnend using [the current master branch of SoundCard](https://github.com/bastibe/SoundCard) because the released SoundCard has a bug related to Windows. Check [this issue I opend](https://github.com/bastibe/SoundCard/issues/166) for more infomation.)
 ```bash
 pip install -r requirements.txt
 ```
