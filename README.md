@@ -6,7 +6,6 @@ Sample code which records system sounds (what you hear) in Python.
 
 # Environments
 This worked on Windows 10/11 and Ubuntu 18.04.
-I think this will work on macOS.
 
 # Installation
 1. Clone this repository
